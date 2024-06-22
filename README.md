@@ -1,8 +1,8 @@
 //. DIGITAL LOGIC DESIGN WITH VERILOG
 
-Name: pediredla venkata jagadish
+Name :YASWANTH ATLA
 
-ID:CT12DS413
+ID:CT12DS406
 
 Domain:VLSI design
 
