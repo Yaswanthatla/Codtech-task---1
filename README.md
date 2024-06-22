@@ -19,4 +19,6 @@ The successful design and simulation of basic digital logic circuits in this pro
 ATTACHMENTS
 
 SIMULATION OUTOUTS:
+![IMG-20240622-WA0014](https://github.com/Yaswanthatla/Codtech-task---1/assets/173559838/fc4685b2-48d3-447d-beb5-5b48392179e9)
+
 
